@@ -6,4 +6,4 @@
 -	:hammer_and_pick: Robotics | Embedded Systems | Image Processing
 -	:art: Photoshop | Illustrator | Premiere Pro 
 -	:man_student: MSc. Mechatronics Engineering [at] [Università degli Studi di Roma Tor Vergata](http://web.uniroma2.it/)
--	:earth_europe: Rome | Italy
+-	:earth_european: Rome | Italy

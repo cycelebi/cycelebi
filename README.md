@@ -1,6 +1,6 @@
 ## Hello this is Celebi! :heart:
 
-<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=celebistaken"> 
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=cycelebi"> 
 
 -	:man_technologist: Python | Arduino | HTML | C++ | Java
 -	:hammer_and_pick: Robotics | Embedded Systems | Image Processing
